@@ -1,4 +1,4 @@
-#Traits
+# Traits
 
 Have you ever wished you had Rust like traits in C#? `Traits` is a .NET implementation of traits like those in **Rust**.
 If you prefer or need **composition over inheritance**, this is a good alternative.
