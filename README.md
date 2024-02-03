@@ -3,8 +3,6 @@
 Have you ever wished you had Rust like traits in C#? `Traits` is a .NET implementation of traits like those in **Rust**.
 If you prefer or need **composition over inheritance**, this is a good alternative.
 
-[TOC]
-
 ## What are traits?
 
 A trait is a composition of behaviors represented by methods that can be shared. It enables you to extend types even if they are `sealed`. You can also extend C# types with multiple traits. This is called composition. You can compose new types by aggregating existing components.
